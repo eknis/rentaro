@@ -1,0 +1,5 @@
+node_modules/
+storages/
+.DS_Store
+configmy.js
+config.js
